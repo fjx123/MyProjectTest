@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/rl_bottom"/>
+
+    <RelativeLayout
+        android:id="@+id/rl_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        >
+        <View
+            android:id="@+id/view1"
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="#000"
+            />
+          <RadioGroup
+              android:id="@+id/radio_group"
+              android:layout_marginTop="10dp"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="horizontal"
+              >
+              <RadioButton
+                  android:id="@+id/rb1"
+                   android:button="@null"
+                  android:layout_weight="1"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:drawableTop="@drawable/bar_index"
+                  android:gravity="center_horizontal"
+                  android:textColor="@drawable/bar_set_font"
+                  android:text="按钮1" />
+              <RadioButton
+                  android:id="@+id/rb2"
+                  android:button="@null"
+                  android:layout_weight="1"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:drawableTop="@drawable/bar_two"
+                  android:gravity="center_horizontal"
+                  android:textColor="@drawable/bar_set_font"
+                  android:text="按钮2" />
+              <RadioButton
+                  android:id="@+id/rb3"
+                  android:button="@null"
+                  android:layout_weight="1"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:drawableTop="@drawable/bar_three"
+                  android:gravity="center_horizontal"
+                  android:textColor="@drawable/bar_set_font"
+                  android:text="按钮3" />
+              <RadioButton
+                  android:id="@+id/rb4"
+                  android:button="@null"
+                  android:layout_weight="1"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:drawableTop="@drawable/bar_four"
+                  android:gravity="center_horizontal"
+                  android:textColor="@drawable/bar_set_font"
+                  android:text="按钮4" />
+          </RadioGroup>
+    </RelativeLayout>
+</RelativeLayout>

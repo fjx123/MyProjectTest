@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="barFontPressed">#d81e06</color>
+    <color name="barFontNormal">#2c2c2c</color>
+
+
+
+    <color name="transparent">#00000000</color>
+    <color name="background">#F7F4F0</color>
+    <color name="title_color">#333333</color>
+
+    <!-- 顶部title背景色 -->
+    <color name="headtitle_back">#fcfcfc</color>
+    <color name="mainviewbackground">#f5f5f5</color>
+    <color name="bottombarback">#fcfcfc</color>
+    <color name="text_blue">#5BB7DE</color>
+    <color name="text_blue2">#4f9fc2</color>
+    <color name="live_show_bac">#80000000</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="mainlistback">#eeeeee</color>
+    <color name="black">#000000</color>
+    <color name="black_75">#BE000000</color>
+    <color name="text_gray1">#333333</color>
+    <color name="text_gray2">#666666</color>
+    <color name="text_gray3">#999999</color>
+    <color name="text_orange">#FF6600</color>
+    <color name="index_bar_selected_color">#EE4350</color>
+    <color name="text_orange_tm">#c8FF6600</color>
+    <color name="text_red">#FF0000</color>
+    <color name="text_red_pressed">#aaFF0000</color>
+    <color name="text_gray_cccccc">#cccccc</color>
+    <color name="primary">#009688</color>
+
+    <color name="text_orange_pressed">#FF9900</color>
+
+    <color name="bar_bottom_checked_background">#60b7dd</color>
+    <color name="mask_background">#50000000</color>
+
+    <color name="cartmask">#80000000</color>
+    <color name="filterback">#e9e9e9</color>
+    <color name="divide">#eaeaea</color>
+    <color name="bar_textnormal">#999999</color>
+    <color name="bar_textchecked">#5BB7DE</color>
+    <color name="ll_clicked">#3590C4</color>
+    <color name="text_green_payok">#51bc57</color>
+    <color name="text_red_payfail">#fb6f4c</color>
+    <color name="button_orange_normal">#ff9931</color>
+    <color name="button_orange_clicked">#F2A031</color>
+    <color name="button_orange_click">#F2A031</color>
+
+    <!-- 0619ui modify -->
+    <color name="main_type8_back">#fbfbfb</color>
+    <color name="line1pxcolor">#e9e9e9</color>
+    <color name="backmask">#66000000</color>
+    <color name="c_clicked">#d9d9d9</color>
+    <color name="findpasswd_tabback">#d66800</color>
+    <color name="logout_normal">#ff0000</color>
+    <color name="logout_clicked">#e56600</color>
+    <color name="ll_buy_backcolor">#eaeaea</color>
+    <color name="ll_filter_backcolor">#f7f7f7</color>
+    <color name="order_by_phone_normal">#ff5533</color>
+    <color name="order_by_phone_clicked">#e54c2e</color>
+    <color name="order_by_app_normal">#ff9900</color>
+    <color name="order_by_app_clicked">#e68a2e</color>
+    <color name="new_feature_stroke">#d96c00</color>
+    <color name="image_float_text_background">#9c000000</color>
+    <color name="buy_car_bottom_background">#d9d9d9</color>
+    <color name="buy_car_delete_button_background">#cccccc</color>
+    <color name="login_button_background">#ff6600</color>
+    <color name="merchant_detail_bg">#f5f5f5</color>
+    <color name="transparent_background">#dd000000</color>
+    <color name="transparent_background1">#01000000</color>
+
+    <color name="transparent_city_choose">#f0ffffff</color>
+
+    <color name="c_0080b1">#0080b1</color>
+    <color name="c_ff6600">#ff6600</color>
+    <color name="c_ffc8a4">#ffc8a4</color>
+    <color name="c_cccccc">#cccccc</color>
+    <color name="c_d8d8d8">#d8d8d8</color>
+    <color name="c_e5e5e5">#e5e5e5</color>
+    <color name="c_f2f2f2">#f2f2f2</color>
+    <color name="c_333333">#333333</color>
+    <color name="c_999999">#999999</color>
+    <color name="c_c1c1c1">#c1c1c1</color>
+    <color name="c_666666">#666666</color>
+    <color name="c_fffff00">#ffff00</color>
+    <color name="c_cecece">#cecece</color>
+    <color name="c_010101">#010101</color>
+    <color name="c_e9e9e9">#e9e9e9</color>
+    <color name="c_cc999999">#cc999999</color>
+    <color name="c_ccff6600">#ccff6600</color>
+
+    <color name="c_4ab94d">#4ab94d</color>
+    <color name="c_2db2ff">#2db2ff</color>
+    <color name="c_ff5533">#ff5533</color>
+    <color name="c_555555">#555555</color>
+    <color name="c_fdfdfd">#fdfdfd</color>
+    <color name="c_b5b5b5">#b5b5b5</color>
+
+    <color name="button_cancel_clicked">#808080</color>
+    <color name="button_cancel">#999999</color>
+
+    <color name="ad_circle_jump_back">#1a000000</color>
+    <color name="ad_circle_jump_back_clicked">#2a000000</color>
+
+    <color name="text_color_primary">#212121</color>
+    <color name="text_second_color_primary">#727272</color>
+
+    <color name="window_background">@android:color/white</color>
+
+    <color name="theme">#ff00bfff</color>
+
+    <color name="radiobg_press">@color/white</color>
+    <color name="radiobg_normal">@color/white</color>
+
+    <!-- LIST BORDER COLOR -->
+    <color name="rounded_container_border">#ffe9e9e9</color>
+
+    <!-- ITEM BACKGROUND COLOR - STATE - DEFAULT -->
+    <color name="base_start_color_default">#FFFFFF</color>
+    <color name="base_end_color_default">#FFFFFF</color>
+
+    <!-- ITEM BACKGROUND COLOR - STATE - PRESSED -->
+    <color name="base_start_color_pressed">#11000000</color>
+    <color name="base_end_color_pressed">#11000000</color>
+
+    <!-- ITEM TEXT COLORS - STATES - PRESSED AND DEFAULT -->
+    <color name="text_color_default">#666666</color>
+    <color name="text_color_pressed">#333333</color>
+
+    <color name="main_recommend_title0">#FF6600</color>
+    <color name="main_recommend_title1">#82ce5c</color>
+    <color name="main_recommend_title2">#52bbf8</color>
+    <color name="main_recommend_title3">#3cd1cf</color>
+    <color name="main_recommend_title4">#ffcc00</color>
+
+    <!-- 对话框半透明背景 -->
+    <color name="translucent_bac">#90000000</color>
+
+</resources>
