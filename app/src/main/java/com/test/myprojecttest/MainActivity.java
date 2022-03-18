@@ -52,6 +52,9 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     FragmentManager fragmentManager;
     FragmentTransaction transaction;
 
+    //这个是测试用的，上传到远程仓库，githup，不用管这个
+    private String aaa;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
